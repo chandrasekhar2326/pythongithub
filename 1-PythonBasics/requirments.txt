@@ -1,0 +1,2 @@
+To Create a Package - conda create -p package name python==3.12
+ipykernel - pip install ipykernel
